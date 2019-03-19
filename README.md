@@ -2,7 +2,7 @@
 
 以下の通り実行します:
 
-1. 日本語版ワークショップの GitHub リポジトリ にアクセスします。
+1. [日本語版ワークショップ](https://github.com/seosoft/PyTorch-Intro-JP) の GitHub リポジトリ にアクセスします。
 2. [Clone or download] で Clone 用の URL を取得します。（クリップボードにコピーします）
 3. [Azure Notebooks](https://notebooks.azure.com) に接続してサインインします。
 4. ML と PyTorch について学ぶために start.ipynb を実行します。
