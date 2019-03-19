@@ -5,9 +5,19 @@
 1. [日本語版ワークショップ](https://github.com/seosoft/PyTorch-Intro-JP) の GitHub リポジトリ にアクセスします。
 2. [Clone or download] で Clone 用の URL を取得します。（クリップボードにコピーします）
 3. [Azure Notebooks](https://notebooks.azure.com) に接続してサインインします。
-4. ML と PyTorch について学ぶために start.ipynb を実行します。
-5. Azure ML サービスについて学ぶために cloud.ipynb を実行します。
+4. [Upload GitHub Repo] をクリックして、上の手順でコピーした GitHub の URL を [GitHub Repository] に貼り付けます。
+5. プロジェクト名とプロジェクトIDを入力します。クローン先のプロジェクトをパブリックにしたくない場合は、[public] チェックボックスをオフにします。
+6. ML と PyTorch について学ぶために [start.ipynb](start.ipynb) を実行します。
+7. Azure ML サービスについて学ぶために [cloud.ipynb](cloud.ipynb) を実行します。
 
+# 英語版ワークショップの利用開始手順
+1. [https://github.com/sethjuarez/pytorchintro](https://github.com/sethjuarez/pytorchintro) にアクセスします。
+2. [Clone or download] で Clone 用の URL を取得します。（クリップボードにコピーします）
+3. [Azure Notebooks](https://notebooks.azure.com) に接続してサインインします。
+4. [Upload GitHub Repo] をクリックして、上の手順でコピーした GitHub の URL を [GitHub Repository] に貼り付けます。
+5. プロジェクト名とプロジェクトIDを入力します。クローン先のプロジェクトをパブリックにしたくない場合は、[public] チェックボックスをオフにします。
+6. ML と PyTorch について学ぶために [start.ipynb](start.ipynb) を実行します。
+7. Azure ML サービスについて学ぶために [cloud.ipynb](cloud.ipynb) を実行します。
 
 # Machine Learning クイックスタート
 
